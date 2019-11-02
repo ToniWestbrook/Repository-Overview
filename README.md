@@ -10,6 +10,8 @@ Thanks for taking an interest in my projects!  I develop and maintain the follow
 | [PALADIN_Plugins](https://github.com/ToniWestbrook/paladin-plugins) | Pipeline plugins for PALADIN, providing HPC support, abundance (taxonomy, go terms), automation, etc. |
 | [Mitobin](https://github.com/ToniWestbrook/misc/mitobin) | Taxonomic classification and read binning of mitochondrial DNA  |
 
+<br />
+
 ### Personal and Synthetic Dreams Projects
 
 | Project | Description |
