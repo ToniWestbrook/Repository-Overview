@@ -1,6 +1,6 @@
 # Overview of my Github Repositories
 
-Thanks for taking an interest in my projects!  I develop and maintain the following software:
+Thanks for taking an interest in my projects!  The following are a list of active projects I develop and/or maintain.  For older code and archived projects, please check out my [full list of repositories](https://github.com/ToniWestbrook?tab=repositories).
 
 ### UNH and Bioinformatics Projects
 
