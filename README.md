@@ -18,3 +18,4 @@ Thanks for taking an interest in my projects!  The following are a list of activ
 | Project | Description |
 | ------- | ----------- |
 | [NetPaint](https://github.com/SyntheticDreams/NetPaint) |100% text-only drawing program, compatible with any terminal emulator that supports the mouse, such as PuTTY, Konsole, iTerm2, and many others. |
+| [Whirldwind](https://github.com/SyntheticDreams/whirlwind) |Nintendo Entertainment System (NES) compatible FPGA core |
